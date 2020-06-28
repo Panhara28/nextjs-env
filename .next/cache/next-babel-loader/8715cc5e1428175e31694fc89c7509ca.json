@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nexport default function Home() {\n  return __jsx(\"div\", null, \"RESTURL_SPEAKERS \", process.env.RESTURL_SPEAKERS, __jsx(\"br\", null), \"RESTURL_SESSIONS \", process.env.RESTURL_SESSIONS);\n}","map":null,"metadata":{},"sourceType":"module"}
